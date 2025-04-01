@@ -10,4 +10,9 @@ class JwtAuthApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void jwtAuthApplicationTests() {
+
+    }
+
 }
